@@ -1,0 +1,18 @@
+body{
+    background-color: #11063a;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.parentcontainer{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    background-color: rgb(78, 111, 139);
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+    border: 1px solid white;
+}
